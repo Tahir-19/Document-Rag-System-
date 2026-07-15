@@ -1,0 +1,165 @@
+1. What is Artificial Intelligence (AI)?
+Artificial Intelligence (AI) is a branch of computer science.
+It focuses on creating machines that can think and act intelligently.
+AI systems can learn, reason, and solve problems.
+They try to mimic human intelligence and decision-making.
+AI is used in smartphones, robots, and online platforms.
+Examples include voice assistants and recommendation systems.
+AI can analyze large amounts of data quickly.
+It helps automate tasks that normally need human effort.
+Modern AI is widely used in healthcare, education, and security.
+AI continues to grow rapidly and shape the future of technology.
+2. What is Machine Learning (ML)?
+Machine Learning is a subset of Artificial Intelligence.
+It allows computers to learn from data automatically.
+ML systems improve their performance through experience.
+They do not require explicit programming for every task.
+The model identifies patterns and relationships in data.
+Machine Learning is used in spam filters and recommendations.
+It is also used in fraud detection and medical diagnosis.
+ML requires data for training and testing models.
+Good quality data improves prediction accuracy.
+Machine Learning is one of the most important AI technologies today.
+3. Difference between AI and ML?
+Artificial Intelligence is a broad field of intelligent systems.
+Machine Learning is a subset of AI.
+AI focuses on making machines behave intelligently.
+ML focuses on learning patterns from data.
+AI can include robotics and expert systems.
+ML mainly depends on algorithms and datasets.
+AI may work with or without learning.
+ML always improves using data and training.
+Self-driving cars are examples of AI systems.
+Recommendation engines are examples of Machine Learning applications.
+4. What is Deep Learning?
+Deep Learning is a specialized branch of Machine Learning.
+It uses artificial neural networks with many layers.
+These layers process information step by step.
+Deep Learning works well with large datasets.
+It is commonly used in image and speech recognition.
+The system automatically extracts important features from data.
+It performs very well in complex AI tasks.
+Examples include facial recognition and autonomous vehicles.
+Deep Learning requires high computing power and GPUs.
+It is inspired by the structure of the human brain.
+5. What is Data in ML?
+Data is the foundation of Machine Learning systems.
+It contains information used for training models.
+Data can be text, images, videos, or numbers.
+The quality of data affects model performance.
+More accurate data leads to better predictions.
+ML models learn patterns from available data.
+Data is collected from sensors, websites, or databases.
+It is usually divided into training and testing sets.
+Cleaning data is important before training models.
+Without data, Machine Learning cannot function properly.
+6. What is a Dataset?
+A dataset is a collection of organized data.
+It is used to train and test ML models.
+Datasets may contain rows and columns like tables.
+Each row usually represents one example or record.
+Each column represents a feature or attribute.
+Datasets can be small or extremely large.
+Examples include image datasets and customer databases.
+The dataset quality directly impacts model accuracy.
+Balanced datasets help reduce prediction bias.
+Datasets are essential for all Machine Learning tasks.
+7. What is Training in ML?
+Training is the process of teaching a model.
+The model learns using historical data examples.
+Algorithms adjust internal parameters during training.
+The goal is to minimize prediction errors.
+Training requires computing resources and time.
+Better training often improves model performance.
+The model discovers patterns hidden in the data.
+Training is repeated many times through iterations.
+After training, the model can make predictions.
+Training is a core step in Machine Learning development.
+8. What is a Model?
+A model is the output of a training process.
+It represents learned patterns from data.
+Models are used to make predictions or decisions.
+Different tasks use different types of models.
+Examples include classification and regression models.
+A trained model can process new unseen data.
+Models improve through better training and tuning.
+Accuracy depends on the quality of data and algorithms.
+Some models are simple while others are highly complex.
+Models are central components of AI and ML systems.
+9. What is Supervised Learning?
+Supervised Learning is a type of Machine Learning.
+It uses labeled data for training models.
+The model learns from input-output examples.
+Labels represent the correct answers for training.
+It is widely used for prediction problems.
+Classification and regression are supervised tasks.
+Spam email detection is a common example.
+The model compares predictions with actual answers.
+Errors are reduced during the training process.
+Supervised Learning is one of the most popular ML methods.
+10. What is Unsupervised Learning?
+Unsupervised Learning works with unlabeled data.
+The model tries to discover hidden patterns itself.
+No correct answers are provided during training.
+It is useful for grouping and pattern discovery.
+Clustering is a common unsupervised technique.
+Businesses use it for customer segmentation.
+The algorithm finds similarities between data points.
+It helps identify trends and relationships.
+Unsupervised Learning is useful in data analysis.
+It is widely used in marketing and recommendation systems.
+11. What is Reinforcement Learning?
+Reinforcement Learning is based on rewards and punishments.
+An agent interacts with an environment.
+The agent learns by taking actions repeatedly.
+Correct actions receive positive rewards.
+Wrong actions may receive penalties or no reward.
+The goal is to maximize total rewards over time.
+It is commonly used in robotics and gaming.
+Chess-playing AI uses Reinforcement Learning techniques.
+The model improves through continuous experience.
+It is inspired by human trial-and-error learning.
+12. What is Classification?
+Classification is a supervised learning technique.
+It predicts categories or labels for data.
+The output is usually discrete values.
+Examples include spam or not spam classification.
+Disease prediction is another classification task.
+Classification algorithms learn from labeled examples.
+Popular algorithms include Decision Trees and SVMs.
+Accuracy is important in classification problems.
+It is widely used in security and healthcare.
+Classification is one of the main ML applications.
+13. What is Regression?
+Regression predicts continuous numeric values.
+It is a supervised learning method.
+Examples include house price prediction.
+Temperature forecasting also uses regression models.
+Regression identifies relationships between variables.
+Linear Regression is a common regression algorithm.
+The output is usually a number instead of a category.
+Regression models help in business forecasting.
+They are useful in finance and economics.
+Regression is important for predictive analytics.
+14. What is Overfitting?
+Overfitting happens when a model memorizes training data.
+The model performs very well on training data.
+However, it performs poorly on new unseen data.
+It learns noise instead of general patterns.
+Complex models are more likely to overfit.
+Overfitting reduces real-world prediction accuracy.
+It can be reduced using regularization techniques.
+More training data may also help.
+Cross-validation is used to detect overfitting.
+Avoiding overfitting is important in ML development.
+15. What is Underfitting?
+Underfitting occurs when a model learns too little.
+The model cannot capture important data patterns.
+It performs poorly on training and testing data.
+Simple models often cause underfitting.
+The prediction accuracy remains very low.
+The model lacks complexity and learning capability.
+More features may improve performance.
+Increasing training time can also help sometimes.
+Underfitting prevents proper decision-making.
+Balancing underfitting and overfitting is essential in ML.
